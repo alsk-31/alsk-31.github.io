@@ -380,6 +380,10 @@ font-size: 30px;
 border-bottom: 1px solid #dddddd;
 }
 
+.edu{
+  color:var(--text-color4);
+  font-family: pre_B;
+}
 
 .que::before {
 display: inline-block;
